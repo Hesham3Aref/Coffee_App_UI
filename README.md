@@ -27,3 +27,11 @@ This project showcases a custom and elegant front-end design ideal for coffee or
 ---
 
 ## 🚀 Getting Started
+
+To run this app locally:
+
+```bash
+git clone https://github.com/Hesham3Aref/coffee_shop_ui.git
+cd coffee_shop_ui
+flutter pub get
+flutter run
