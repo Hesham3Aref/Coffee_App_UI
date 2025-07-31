@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Screenshots
-![Home](screenshots/home.png)
+![Home](Screenshot_20250731_061807.png)
 ![Detail](screenshots/detail.png)
 ![Cart](screenshots/cart.png)
 
