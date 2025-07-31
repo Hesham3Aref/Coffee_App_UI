@@ -7,8 +7,8 @@
 
 ## Screenshots
 ![Home](Screenshot_20250731_061807.png)
-![Detail](screenshots/detail.png)
-![Cart](screenshots/cart.png)
+![Detail](Screenshot_20250731_061842.png)
+
 
 ## Features
 - Curved header with CustomClipper
